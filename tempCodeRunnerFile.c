@@ -1,0 +1,1 @@
+printf("X = %d\n", U->x);
